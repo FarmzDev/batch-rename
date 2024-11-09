@@ -8,7 +8,7 @@ fileDropdownLinks([
     }
 ]);
 
-const Dialog = (await import('./dialog.js')).default;
+// const Dialog = (await import('./dialog.js')).default;
 
 function bulkRename(files) {
     let fileName = "test"
